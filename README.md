@@ -1,1 +1,5 @@
 # DSAPython
+
+## Array
+
+## HashTables
